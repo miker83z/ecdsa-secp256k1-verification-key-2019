@@ -34,7 +34,7 @@
   "dependencies": {
     "elliptic": "^6.5.4",
     "node-forge": "^0.8.5",
-    "crypto-js": "4.1.1"
+    "crypto-js": "^4.1.1"
   },
   "devDependencies": {
     "@babel/core": "^7.4.4",
