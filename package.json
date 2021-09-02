@@ -1,5 +1,5 @@
 {
-  "name": "rn-secp256k1-key-pair",
+  "name": "@sphereon/rn-secp256k1-key-pair",
   "version": "1.1.1-0",
   "description": "React native port by Sphereon, forked from Digital Bazaar, Inc.",
   "main": "lib",
