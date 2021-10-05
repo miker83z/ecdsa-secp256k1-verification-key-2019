@@ -1,6 +1,6 @@
 {
-  "name": "@sphereon/rn-secp256k1-key-pair",
-  "version": "1.1.1-0",
+  "name": "@sphereon/rn-ecdsa-secp256k1-verification-key-2019",
+  "version": "1.1.1-1",
   "description": "React native port by Sphereon, forked from Digital Bazaar, Inc.",
   "main": "lib",
   "scripts": {
