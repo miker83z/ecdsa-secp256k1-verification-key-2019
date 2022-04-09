@@ -1,7 +1,7 @@
 {
-  "name": "@sphereon/rn-ecdsa-secp256k1-verification-key-2019",
-  "version": "1.1.1-1",
-  "description": "React native port by Sphereon, forked from Digital Bazaar, Inc.",
+  "name": "ecdsa-secp256k1-verification-key-2019",
+  "version": "1.1.1-2",
+  "description": "Keypair import update by miker83z, forked from Sphereon, in turn forked from Digital Bazaar, Inc.",
   "main": "lib",
   "scripts": {
     "build": "npm run build-webpack",
@@ -12,7 +12,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/sphereon-opensource/rn-secp256k1-key-pair.git"
+    "url": "https://github.com/miker83z/ecdsa-secp256k1-verification-key-2019.git"
   },
   "keywords": [
     "Linked Data",
@@ -22,15 +22,14 @@
     "jsonld"
   ],
   "author": {
-    "name": "React native port by Sphereon, forked from Digital Bazaar, Inc.",
-    "email": "support@sphereon.com",
-    "url": "https://digitalbazaar.com/, https://sphereon.com"
+    "name": "Mirko Zichichi, Sphereon, Digital Bazaar, Inc.",
+    "email": "mikerz83@gmail.com"
   },
   "license": "BSD-3-Clause",
   "bugs": {
-    "url": "https://github.com/sphereon-opensource/rn-secp256k1-key-pair/issues"
+    "url": "https://github.com/miker83z/ecdsa-secp256k1-verification-key-2019/issues"
   },
-  "homepage": "https://github.com/sphereon-opensource/rn-secp256k1-key-pair#readme",
+  "homepage": "https://github.com/miker83z/ecdsa-secp256k1-verification-key-2019#readme",
   "dependencies": {
     "elliptic": "^6.5.4",
     "node-forge": "^0.8.5",
